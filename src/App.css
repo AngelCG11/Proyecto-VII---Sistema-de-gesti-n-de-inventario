@@ -1,0 +1,158 @@
+
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-image: url('https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-atrasando-lineal-2760309.jpg?tf=3840x'); /* Ruta de la imagen de fondo */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+h1 {
+  font-size: 2em;
+  color: black;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+
+.left-column {
+  background-color: rgba(0, 75, 147, 0.9); 
+  padding: 20px;
+  border-radius: 8px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 400px; 
+  height: 500px; 
+}
+
+
+.left-column h2 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.form-section label {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.form-section input {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #e6e6e6;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #0066cc;
+  transform: scale(1.05);
+}
+
+
+button.add-product {
+  background-color: #004b93;
+  color: white;
+}
+
+button.add-product:hover {
+  background-color: #0066cc;
+}
+
+
+.table-section {
+  background-color: rgba(0, 75, 147, 0.9); 
+  padding: 20px;
+  border-radius: 8px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  width: 100%; 
+  max-width: 600px; 
+  height: auto; 
+  overflow: auto; 
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+  color: black;
+}
+
+table th {
+  background-color: #e0e0e0;
+}
+
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.pagination button {
+  background-color: transparent;
+  border: none;
+  font-size: 1.5em;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+.pagination button:hover {
+  color: #0066cc;
+}
+
+
+button.open-file {
+  background-color: #004b93;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button.open-file:hover {
+  background-color: #0066cc;
+}
+

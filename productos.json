@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Pan Integral",
+    "price": "30",
+    "stock": "50",
+    "supplier": "Panadería El Trigo",
+    "id": 1726480310001
+  },
+  {
+    "name": "Leche Descremada",
+    "price": "22",
+    "stock": "80",
+    "supplier": "Lácteos La Vaca",
+    "id": 1726480310022
+  },
+  {
+    "name": "Café Molido 250g",
+    "price": "65",
+    "stock": "40",
+    "supplier": "Cafetalera Montaña",
+    "id": 1726480311043
+  },
+  {
+    "name": "Huevos Orgánicos",
+    "price": "60",
+    "stock": "30",
+    "supplier": "Granja Los Pinos",
+    "id": 1726480312064
+  },
+  {
+    "name": "Aceite de Oliva 500ml",
+    "price": "85",
+    "stock": "25",
+    "supplier": "Olivares del Sur",
+    "id": 1726480313085
+  },
+  {
+    "name": "Papel Higiénico 12 rollos",
+    "price": "70",
+    "stock": "100",
+    "supplier": "HigieneMax",
+    "id": 1726480314106
+  },
+  {
+    "name": "Frijoles Negros 1kg",
+    "price": "35",
+    "stock": "120",
+    "supplier": "Campos Unidos",
+    "id": 1726480315127
+  },
+  {
+    "name": "Azúcar Morena 1kg",
+    "price": "28",
+    "stock": "90",
+    "supplier": "Dulces Cosechas",
+    "id": 1726480316148
+  },
+  {
+    "name": "Sal Marina 500g",
+    "price": "15",
+    "stock": "70",
+    "supplier": "MarSal",
+    "id": 1726480317169
+  },
+  {
+    "name": "Harina de Trigo 1kg",
+    "price": "25",
+    "stock": "60",
+    "supplier": "Molino El Grano",
+    "id": 1726480318190
+  },
+  {
+    "name": "Jabón Líquido para Manos",
+    "price": "50",
+    "stock": "40",
+    "supplier": "LimpiaTodo",
+    "id": 1726480319211
+  },
+  {
+    "name": "Shampoo Natural 500ml",
+    "price": "75",
+    "stock": "35",
+    "supplier": "Belleza Verde",
+    "id": 1726480320232
+  },
+  {
+    "name": "Pasta de Dientes",
+    "price": "45",
+    "stock": "50",
+    "supplier": "Sonrisa Brillante",
+    "id": 1726480321253
+  },
+  {
+    "name": "Cereal Integral 500g",
+    "price": "40",
+    "stock": "30",
+    "supplier": "Cereales Vital",
+    "id": 1726480322274
+  },
+  {
+    "name": "Atún en Agua 140g",
+    "price": "20",
+    "stock": "100",
+    "supplier": "Pesca Azul",
+    "id": 1726480323295
+  },
+  {
+    "name": "Galletas de Avena 200g",
+    "price": "35",
+    "stock": "75",
+    "supplier": "Dulces Momentos",
+    "id": 1726480324316
+  },
+  {
+    "name": "Jabón para Ropa 1kg",
+    "price": "55",
+    "stock": "60",
+    "supplier": "Limpieza Total",
+    "id": 1726480325337
+  },
+  {
+    "name": "Agua Embotellada 1.5L",
+    "price": "18",
+    "stock": "200",
+    "supplier": "Agua Pura",
+    "id": 1726480326358
+  },
+  {
+    "name": "Queso Manchego 200g",
+    "price": "85",
+    "stock": "45",
+    "supplier": "Lácteos del Campo",
+    "id": 1726480327379
+  },
+  {
+    "name": "Mantequilla Sin Sal 200g",
+    "price": "50",
+    "stock": "55",
+    "supplier": "Lácteos Santa María",
+    "id": 1726480328400
+  }
+]
